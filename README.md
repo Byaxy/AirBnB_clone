@@ -13,7 +13,7 @@ front-end integration...
 * Destroy an object
 
 ## Environment
-This project is interpreted/tested on Ubuntu 14.04 LTS using python3 (version 3.8.5)
+This project is interpreted/tested on Ubuntu 20.04 LTS using python3 (version 3.8.5)
 
 ## Installation
 * Clone this repository: `git clone "https://github.com/Byaxy/AirBnB_clone.git"`
